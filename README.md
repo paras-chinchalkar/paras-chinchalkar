@@ -1,9 +1,11 @@
-#💫 About Me:
-###3rd-year student specializing in Artificial Intelligence with a strong foundation in coding and real-world project development. I enjoy building intelligent solutions, exploring emerging AI technologies, and translating ideas into impactful applications.
+# 💫 About Me
 
-Driven by curiosity and a growth mindset, I bring problem-solving ability, adaptability, and a collaborative approach to every opportunity. I’m eager to contribute innovative ideas, deliver meaningful results, and continue expanding my expertise in a dynamic professional environment.
+🎓 3rd-year student specializing in Artificial Intelligence with a strong foundation in coding and real-world project development. I enjoy building intelligent solutions, exploring emerging AI technologies, and translating ideas into impactful applications.
 
-Open to opportunities where I can create value, learn from industry experts, and contribute to cutting-edge AI initiatives.
+💡 Driven by curiosity and a growth mindset, I bring problem-solving ability, adaptability, and a collaborative approach to every opportunity. I aim to contribute innovative ideas, deliver meaningful results, and continuously expand my expertise in dynamic professional environments.
+
+🚀 Open to opportunities where I can create value, learn from industry experts, and contribute to cutting-edge AI initiatives.
+
 # 💻 Tech Stack:
 
 ### 🤖 AI / Machine Learning
