@@ -1,5 +1,5 @@
-💫 About Me:
-3rd-year student specializing in Artificial Intelligence with a strong foundation in coding and real-world project development. I enjoy building intelligent solutions, exploring emerging AI technologies, and translating ideas into impactful applications.
+#💫 About Me:
+###3rd-year student specializing in Artificial Intelligence with a strong foundation in coding and real-world project development. I enjoy building intelligent solutions, exploring emerging AI technologies, and translating ideas into impactful applications.
 
 Driven by curiosity and a growth mindset, I bring problem-solving ability, adaptability, and a collaborative approach to every opportunity. I’m eager to contribute innovative ideas, deliver meaningful results, and continue expanding my expertise in a dynamic professional environment.
 
